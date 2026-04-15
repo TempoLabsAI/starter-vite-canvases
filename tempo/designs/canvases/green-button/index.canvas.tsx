@@ -2,7 +2,7 @@ import type { TempoPage, TempoStoryboard, TempoRouteStoryboard } from 'tempo-sdk
 import { GreenButton } from '@/components/GreenButton';
 
 const page: TempoPage = {
-  name: "Buttons",
+  name: "Green Button",
 };
 
 export default page;
